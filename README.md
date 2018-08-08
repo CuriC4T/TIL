@@ -7,3 +7,7 @@
 ### 20180807
 * study CSS3 that concept and selector,style etc
 * make simple webPage
+
+### 20180808
+* Read book chapter HTML,CSS3 completely
+* Study android first
