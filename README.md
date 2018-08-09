@@ -15,3 +15,5 @@ _ What I leaned today _
 
 ### when use iframe, HTML used by iframe is not effected by CSS3
 ---
+## 20180809
+* Study JS Object and DOM
