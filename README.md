@@ -17,3 +17,8 @@ _ What I leaned today _
 ---
 ## 20180809
 * Study JS Object and DOM
+---
+## 20180810
+* Study JS completly except graphic part 
+* after studying graphic part, I will make small JS web game
+---
