@@ -22,3 +22,6 @@ _ What I leaned today _
 * Study JS completly except graphic part 
 * after studying graphic part, I will make small JS web game
 ---
+## 20180811
+* Study JS About animation
+---
