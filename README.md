@@ -25,3 +25,10 @@ _ What I leaned today _
 ## 20180811
 * Study JS About animation
 ---
+## 20180812
+* Make breaking brick web gmae
+---
+## 20180813
+* Study DB first time
+* Study jQuery ajax JSON
+---
