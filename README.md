@@ -32,3 +32,6 @@ _ What I leaned today _
 * Study DB first time
 * Study jQuery ajax JSON
 ---
+## 20180814
+* Study DB basic part
+---
