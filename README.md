@@ -35,3 +35,6 @@ _ What I leaned today _
 ## 20180814
 * Study DB basic part
 ---
+## 20180817
+* Study Drag and Drop, SVG,Location Information at html
+---
