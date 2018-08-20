@@ -38,3 +38,9 @@ _ What I leaned today _
 ## 20180817
 * Study Drag and Drop, SVG,Location Information at html
 ---
+## 20180819
+* study DB first
+---
+## 20180820
+* study Android layout
+---
