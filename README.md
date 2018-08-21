@@ -42,5 +42,8 @@ _ What I leaned today _
 * study DB first
 ---
 ## 20180820
-* study Android layout
+* study Android Basic concept
+---
+## 20180821
+* study Android layout that target,handling,guideline,xml etc..
 ---
