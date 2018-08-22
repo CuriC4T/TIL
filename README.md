@@ -47,3 +47,6 @@ _ What I leaned today _
 ## 20180821
 * study Android layout that target,handling,guideline,xml etc..
 ---
+## 20180821
+* study Android layout contractLayout,linearlayout,etc..
+---
