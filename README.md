@@ -47,10 +47,10 @@ _ What I leaned today _
 ## 20180821
 * study Android layout that target,handling,guideline,xml etc..
 ---
-## 20180821
+## 20180822
 * study Android layout contractLayout,linearlayout,etc..
 ---
-## 2018082
+## 20180826
 * study web security first time
 ---
 ## 20180827
