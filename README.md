@@ -50,6 +50,9 @@ _ What I leaned today _
 ## 20180821
 * study Android layout contractLayout,linearlayout,etc..
 ---
-## 20180821
+## 2018082
 * study web security first time
+---
+## 20180827
+* study sqlInjection,sqlmap
 ---
