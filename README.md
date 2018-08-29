@@ -56,3 +56,7 @@ _ What I leaned today _
 ## 20180827
 * study sqlInjection,sqlmap
 ---
+## 20180829
+* study mySql part that index, trigger, stored procedure,backup etc..
+* study about cryptographic hash function basic concept
+---
