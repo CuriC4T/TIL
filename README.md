@@ -60,3 +60,5 @@ _ What I leaned today _
 * study mySql part that index, trigger, stored procedure,backup etc..
 * study about cryptographic hash function basic concept
 ---
+## 20180904
+* study stt,tts for raspberry pi for my project
