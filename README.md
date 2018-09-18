@@ -62,3 +62,6 @@ _ What I leaned today _
 ---
 ## 20180904
 * study stt,tts for raspberry pi for my project
+---
+## 20180918
+* study basic concept of network for webhacking   
