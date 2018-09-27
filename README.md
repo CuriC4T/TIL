@@ -65,3 +65,5 @@ _ What I leaned today _
 ---
 ## 20180918
 * study basic concept of network for webhacking   
+## 20180927
+* study digital transmission (line coding)  
