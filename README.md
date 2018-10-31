@@ -63,7 +63,27 @@ _ What I leaned today _
 ## 20180904
 * study stt,tts for raspberry pi for my project
 ---
+## 20180905
+* Review Android, Android Layout (page 179/829)
+---
+## 20180908
+* study and solve Raspberry Pi about Speaker and MIC
+---
 ## 20180918
 * study basic concept of network for webhacking   
+---
+## 20180924
+* study about maven
+* study about google cloud speech
+---
 ## 20180927
 * study digital transmission (line coding)  
+---
+## 20181008~20181019
+* focus on mid term test  
+---
+## 20181030
+* study DeepLearning (what is Machine Running)
+---
+## 20181031
+* study Deep Learning (Basic Theory of Deep Learning)
